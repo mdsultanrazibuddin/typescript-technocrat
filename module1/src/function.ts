@@ -3,6 +3,8 @@
 // arrow function
 
 
+{
+
 function add(num1:number, num2:number): number {
     return num1+ num2
 }
@@ -25,3 +27,5 @@ const poorUser = {
 
 const arr: number[] = [1,4,5]
 const newArray = arr.map(elem =>elem +elem)
+
+}
